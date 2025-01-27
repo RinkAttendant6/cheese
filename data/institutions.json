@@ -1,0 +1,2240 @@
+[
+  {
+    "name": "Alberta University of the Arts",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "auarts.ca"
+    ]
+  },
+  {
+    "name": "Acadia University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "acadiau.ca"
+    ]
+  },
+  {
+    "name": "Algoma University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "algomau.ca"
+    ]
+  },
+  {
+    "name": "Athabasca University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "athabascau.ca"
+    ]
+  },
+  {
+    "name": "Bishop's University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ubishops.ca"
+    ]
+  },
+  {
+    "name": "Brandon University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "brandonu.ca"
+    ]
+  },
+  {
+    "name": "Brock University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "brocku.ca"
+    ]
+  },
+  {
+    "name": "Cape Breton University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "cbu.ca"
+    ]
+  },
+  {
+    "name": "Capilano University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "capilanou.ca"
+    ]
+  },
+  {
+    "name": "Carleton University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "carleton.ca",
+      "cmail.carleton.ca"
+    ],
+    "blocklisted": true
+  },
+  {
+    "name": "Concordia University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "concordia.ca"
+    ]
+  },
+  {
+    "name": "Dalhousie University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "dal.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Emily Carr University of Art and Design",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ecuad.ca"
+    ]
+  },
+  {
+    "name": "Kwantlen Polytechnic University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "kpu.ca"
+    ]
+  },
+  {
+    "name": "Lakehead University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "lakeheadu.ca"
+    ]
+  },
+  {
+    "name": "MacEwan University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "macewan.ca"
+    ]
+  },
+  {
+    "name": "Mount Royal University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "mtroyal.ca"
+    ]
+  },
+  {
+    "name": "University of Alberta",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ualberta.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Calgary",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ucalgary.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Lethbridge",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uleth.ca"
+    ]
+  },
+  {
+    "name": "Royal Roads University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "royalroads.ca"
+    ]
+  },
+  {
+    "name": "Simon Fraser University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "sfu.ca"
+    ]
+  },
+  {
+    "name": "Thompson Rivers University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "tru.ca"
+    ]
+  },
+  {
+    "name": "University of British Columbia",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ubc.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Victoria",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uvic.ca"
+    ]
+  },
+  {
+    "name": "University of the Fraser Valley",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ufv.ca"
+    ]
+  },
+  {
+    "name": "University of Northern British Columbia",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "unbc.ca"
+    ]
+  },
+  {
+    "name": "Vancouver Island University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "viu.ca"
+    ]
+  },
+  {
+    "name": "University College of the North",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ucn.ca"
+    ]
+  },
+  {
+    "name": "University of Manitoba",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "umanitoba.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Université de Saint-Boniface",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ustboniface.ca"
+    ]
+  },
+  {
+    "name": "University of Winnipeg",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uwinnipeg.ca"
+    ]
+  },
+  {
+    "name": "Mount Allison University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "mta.ca"
+    ]
+  },
+  {
+    "name": "St. Thomas University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "stu.ca"
+    ]
+  },
+  {
+    "name": "University of New Brunswick",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "unb.ca"
+    ]
+  },
+  {
+    "name": "Université de Moncton",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "umoncton.ca"
+    ]
+  },
+  {
+    "name": "Memorial University of Newfoundland",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "mun.ca"
+    ]
+  },
+  {
+    "name": "Mount Saint Vincent University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "msvu.ca"
+    ]
+  },
+  {
+    "name": "Nova Scotia College of Art and Design University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "nscad.ca"
+    ]
+  },
+  {
+    "name": "Saint Francis Xavier University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "stfx.ca"
+    ]
+  },
+  {
+    "name": "Saint Mary's University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "smu.ca"
+    ]
+  },
+  {
+    "name": "Université Sainte-Anne",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "usainteanne.ca"
+    ]
+  },
+  {
+    "name": "University of King's College",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ukings.ca"
+    ]
+  },
+  {
+    "name": "Laurentian University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "laurentian.ca"
+    ]
+  },
+  {
+    "name": "McMaster University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "mcmaster.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Nipissing University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "nipissingu.ca"
+    ]
+  },
+  {
+    "name": "Ontario College of Art and Design University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ocadu.ca"
+    ]
+  },
+  {
+    "name": "Queen's University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "queensu.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Royal Military College of Canada",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "rmc-cmr.ca"
+    ]
+  },
+  {
+    "name": "Toronto Metropolitan University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "torontomu.ca"
+    ]
+  },
+  {
+    "name": "Trent University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "trentu.ca"
+    ]
+  },
+  {
+    "name": "Université de Hearst",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uhearst.ca"
+    ]
+  },
+  {
+    "name": "Université de l'Ontario français",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uontario.ca"
+    ]
+  },
+  {
+    "name": "Université de Sudbury",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "usudbury.ca"
+    ]
+  },
+  {
+    "name": "University of Guelph",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uoguelph.ca"
+    ]
+  },
+  {
+    "name": "Ontario Tech University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ontariotechu.ca"
+    ]
+  },
+  {
+    "name": "University of Ottawa",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uottawa.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Toronto",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "utoronto.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Waterloo",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uwaterloo.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Western Ontario",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uwo.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Windsor",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uwindsor.ca"
+    ]
+  },
+  {
+    "name": "Wilfrid Laurier University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "wlu.ca"
+    ]
+  },
+  {
+    "name": "York University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "yorku.ca"
+    ]
+  },
+  {
+    "name": "University of Prince Edward Island",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "upei.ca"
+    ]
+  },
+  {
+    "name": "École de technologie supérieure",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "etsmtl.ca"
+    ]
+  },
+  {
+    "name": "École nationale d'administration publique",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "enap.ca"
+    ]
+  },
+  {
+    "name": "Institut national de la recherche scientifique",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "inrs.ca"
+    ]
+  },
+  {
+    "name": "McGill University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "mcgill.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Université de Montréal",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "umontreal.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Université de Sherbrooke",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "usherbrooke.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec en Abitibi-Témiscamingue",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqat.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec en Outaouais",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqo.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec à Chicoutimi",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqac.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec à Montréal",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqam.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec à Rimouski",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqar.ca"
+    ]
+  },
+  {
+    "name": "Université du Québec à Trois-Rivières",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uqtr.ca"
+    ]
+  },
+  {
+    "name": "Université TÉLUQ",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "teluq.ca"
+    ]
+  },
+  {
+    "name": "Université Laval",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ulaval.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "University of Regina",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "uregina.ca"
+    ]
+  },
+  {
+    "name": "University of Saskatchewan",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "usask.ca"
+    ],
+    "u15": true
+  },
+  {
+    "name": "Yukon University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "yukonu.ca"
+    ]
+  },
+  {
+    "name": "Ambrose University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ambrose.edu"
+    ]
+  },
+  {
+    "name": "Booth University College",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "boothuc.ca"
+    ]
+  },
+  {
+    "name": "Burman University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "burmanu.ca"
+    ]
+  },
+  {
+    "name": "Canadian Mennonite University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "cmu.ca"
+    ]
+  },
+  {
+    "name": "Concordia University of Edmonton",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "concordia.ab.ca"
+    ]
+  },
+  {
+    "name": "Crandall University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "crandallu.ca"
+    ]
+  },
+  {
+    "name": "Kingswood University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "kingswood.edu"
+    ]
+  },
+  {
+    "name": "Pacific Coast University for Workplace Health Sciences",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "pcu-whs.ca"
+    ]
+  },
+  {
+    "name": "Providence University College and Theological Seminary",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "prov.ca"
+    ]
+  },
+  {
+    "name": "Redeemer University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "redeemer.ca"
+    ]
+  },
+  {
+    "name": "St. Mary's University, Calgary",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "stmu.ca"
+    ]
+  },
+  {
+    "name": "St. Stephen's University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ssu.ca"
+    ]
+  },
+  {
+    "name": "The King's University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "kingsu.ca"
+    ]
+  },
+  {
+    "name": "Trinity Western University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "twu.ca"
+    ]
+  },
+  {
+    "name": "Tyndale University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "tyndale.ca"
+    ]
+  },
+  {
+    "name": "University Canada West",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ucanwest.ca"
+    ]
+  },
+  {
+    "name": "University of Fredericton",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "ufred.ca"
+    ]
+  },
+  {
+    "name": "University of Niagara Falls Canada",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "unfc.ca"
+    ]
+  },
+  {
+    "name": "Yorkville University",
+    "university": true,
+    "college": false,
+    "email_domains": [
+      "yorkvilleu.ca"
+    ]
+  },
+  {
+    "name": "ABM College of Health and Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "abmcollege.com"
+    ]
+  },
+  {
+    "name": "Ambrose University College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "ambrose.edu"
+    ]
+  },
+  {
+    "name": "Bay River College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "bayrivercolleges.ca"
+    ]
+  },
+  {
+    "name": "Bow Valley College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "bowvalleycollege.ca"
+    ]
+  },
+  {
+    "name": "Grande Prairie Regional College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nwpolytech.ca"
+    ]
+  },
+  {
+    "name": "Keyano College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "keyano.ca"
+    ]
+  },
+  {
+    "name": "The King's University College",
+    "university": true,
+    "college": true,
+    "email_domains": [
+      "kingsu.ca"
+    ]
+  },
+  {
+    "name": "Lakeland College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "lakelandcollege.ca",
+      "edu.lakelandcollege.ca"
+    ]
+  },
+  {
+    "name": "Lethbridge College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "lethpolytech.ca"
+    ]
+  },
+  {
+    "name": "MaKami College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "makamicollege.com"
+    ]
+  },
+  {
+    "name": "Medicine Hat College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "mhc.ab.ca"
+    ]
+  },
+  {
+    "name": "NorQuest College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "norquest.ca"
+    ]
+  },
+  {
+    "name": "Northern Alberta Institute of Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nait.ca"
+    ]
+  },
+  {
+    "name": "Olds College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "oldscollege.ca"
+    ]
+  },
+  {
+    "name": "Prairie College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "prairie.edu"
+    ]
+  },
+  {
+    "name": "Red Crow Community College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "redcrowcollege.com"
+    ]
+  },
+  {
+    "name": "Red Deer Polytechnic",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "rdpolytech.ca"
+    ]
+  },
+  {
+    "name": "Reeves College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "reevescollege.ca"
+    ]
+  },
+  {
+    "name": "Robertson College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "robertsoncollege.ca"
+    ]
+  },
+  {
+    "name": "Southern Alberta Institute of Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sait.ca"
+    ]
+  },
+  {
+    "name": "Sundance College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sundancecollege.ca"
+    ]
+  },
+  {
+    "name": "Acsenda School of Management",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "acsenda.com"
+    ]
+  },
+  {
+    "name": "Alexander College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "alexandercollege.ca"
+    ]
+  },
+  {
+    "name": "British Columbia Institute of Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "bcit.ca"
+    ]
+  },
+  {
+    "name": "Cambria College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cambriacollege.ca"
+    ]
+  },
+  {
+    "name": "Camosun College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "camosun.ca"
+    ]
+  },
+  {
+    "name": "Coast Mountain College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "coastmountaincollege.ca"
+    ]
+  },
+  {
+    "name": "College of New Caledonia",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cnc.bc.ca"
+    ]
+  },
+  {
+    "name": "College of the Rockies",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cotr.bc.ca"
+    ]
+  },
+  {
+    "name": "Columbia College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "columbiacollege.ca"
+    ]
+  },
+  {
+    "name": "Cornerstone International Community College of Canada",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "ciccc.ca"
+    ]
+  },
+  {
+    "name": "Create Career College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "createcareercollege.com"
+    ]
+  },
+  {
+    "name": "Douglas College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "thedsu.ca"
+    ]
+  },
+  {
+    "name": "Educacentre College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "educacentre.com"
+    ]
+  },
+  {
+    "name": "Eton College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "etoncollege.ca"
+    ]
+  },
+  {
+    "name": "First College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "firstcollege.ca"
+    ]
+  },
+  {
+    "name": "Langara College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "langara.ca"
+    ]
+  },
+  {
+    "name": "North Island College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "northislandcollege.ca"
+    ]
+  },
+  {
+    "name": "Northern Lights College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nlc.bc.ca"
+    ]
+  },
+  {
+    "name": "Okanagan College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "okanagan.bc.ca"
+    ]
+  },
+  {
+    "name": "Selkirk College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "selkirk.ca"
+    ]
+  },
+  {
+    "name": "Sprott Shaw College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sprottshaw.com"
+    ]
+  },
+  {
+    "name": "Vancouver Community College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "vcc.ca"
+    ]
+  },
+  {
+    "name": "Vancouver Institute of Media Arts (VanArts)",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "vanarts.com"
+    ]
+  },
+  {
+    "name": "Assiniboine Community College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "assiniboine.net"
+    ]
+  },
+  {
+    "name": "Manitoba Institute of Trades and Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "mitt.ca"
+    ]
+  },
+  {
+    "name": "Menno Simons College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cmu.ca"
+    ]
+  },
+  {
+    "name": "Red River College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "rrc.ca"
+    ]
+  },
+  {
+    "name": "St. Andrew's College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "umanitoba.ca"
+    ]
+  },
+  {
+    "name": "St. John's College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "umanitoba.ca"
+    ]
+  },
+  {
+    "name": "St. Paul's College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "umanitoba.ca"
+    ]
+  },
+  {
+    "name": "Steinbach Bible College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sbcollege.ca"
+    ]
+  },
+  {
+    "name": "Yellowquill University College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "yellowquill.org"
+    ]
+  },
+  {
+    "name": "Collège communautaire du Nouveau-Brunswick",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "ccnb.ca"
+    ]
+  },
+  {
+    "name": "Maritime College of Forest Technology",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "mcft.ca"
+    ]
+  },
+  {
+    "name": "McKenzie College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "mckenzie.edu"
+    ]
+  },
+  {
+    "name": "New Brunswick College of Craft and Design",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "gnb.ca"
+    ]
+  },
+  {
+    "name": "New Brunswick Community College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nbcc.ca"
+    ]
+  },
+  {
+    "name": "Oulton College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "oultoncollege.com"
+    ]
+  },
+  {
+    "name": "College of the North Atlantic",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cna.nl.ca"
+    ]
+  },
+  {
+    "name": "Aurora College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "auroracollege.nt.ca"
+    ]
+  },
+  {
+    "name": "Collège nordique francophone",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cnordique.ca"
+    ]
+  },
+  {
+    "name": "Canadian Coast Guard College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "dfo-mpo.gc.ca"
+    ]
+  },
+  {
+    "name": "Gaelic College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "gaeliccollege.edu"
+    ]
+  },
+  {
+    "name": "Nova Scotia Community College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nscc.ca"
+    ]
+  },
+  {
+    "name": "Nunavut Arctic College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "arcticcollege.ca"
+    ]
+  },
+  {
+    "name": "Algonquin College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "algonquincollege.com"
+    ]
+  },
+  {
+    "name": "Cambrian College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cambriancollege.ca"
+    ]
+  },
+  {
+    "name": "Canadore College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "canadorecollege.ca"
+    ]
+  },
+  {
+    "name": "Centennial College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "centennialcollege.ca"
+    ]
+  },
+  {
+    "name": "Collège Boréal",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegeboreal.ca"
+    ]
+  },
+  {
+    "name": "Conestoga College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "conestogac.on.ca"
+    ]
+  },
+  {
+    "name": "Confederation College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "confederationcollege.ca"
+    ]
+  },
+  {
+    "name": "Durham College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "durhamcollege.ca"
+    ]
+  },
+  {
+    "name": "Fanshawe College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "fanshawec.ca"
+    ]
+  },
+  {
+    "name": "Fleming College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "flemingcollege.ca"
+    ]
+  },
+  {
+    "name": "George Brown College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "georgebrown.ca"
+    ]
+  },
+  {
+    "name": "Georgian College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "georgiancollege.ca"
+    ]
+  },
+  {
+    "name": "Humber College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "humber.ca"
+    ]
+  },
+  {
+    "name": "La Cité collégiale",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegelacite.ca"
+    ]
+  },
+  {
+    "name": "Lambton College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "lambtoncollege.ca"
+    ]
+  },
+  {
+    "name": "Loyalist College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "loyalistcollege.com"
+    ]
+  },
+  {
+    "name": "Mohawk College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "mohawkcollege.ca"
+    ]
+  },
+  {
+    "name": "Niagara College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "niagaracollege.ca"
+    ]
+  },
+  {
+    "name": "Northern College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "northern.on.ca"
+    ]
+  },
+  {
+    "name": "St. Clair College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "stclaircollege.ca"
+    ]
+  },
+  {
+    "name": "St. Lawrence College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sl.on.ca"
+    ]
+  },
+  {
+    "name": "Sault College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "saultcollege.ca"
+    ]
+  },
+  {
+    "name": "Seneca College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "senecapolytechnic.ca"
+    ]
+  },
+  {
+    "name": "Sheridan College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sheridancollege.ca"
+    ]
+  },
+  {
+    "name": "Collège de l'Île",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegedelile.ca"
+    ]
+  },
+  {
+    "name": "Holland College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "hollandcollege.com"
+    ]
+  },
+  {
+    "name": "Cégep André-Laurendeau",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "claurendeau.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep Beauce-Appalaches",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepba.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Baie-Comeau",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepbc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Chicoutimi",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cchic.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Drummondville",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepdrummond.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Granby-Haute-Yamaska",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepgranby.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Jonquière",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepjonquiere.ca"
+    ]
+  },
+  {
+    "name": "Cégep de la Gaspésie et des Îles",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepgim.ca"
+    ]
+  },
+  {
+    "name": "Cégep de La Pocatière",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegeplapocatiere.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de l'Abitibi-Témiscamingue",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepat.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Lévis-Lauzon",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegeplevis.ca"
+    ]
+  },
+  {
+    "name": "Cégep de l'Outaouais",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepoutaouais.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Matane",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegep-matane.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Rimouski",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegep-rimouski.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Rivière-du-Loup",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegeprdl.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Saint-Félicien",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepstfe.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Saint-Hyacinthe",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepsth.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Saint-Jean-sur-Richelieu",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cstjean.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Saint-Jérôme",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cstj.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Saint-Laurent",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepsl.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Sainte-Foy",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "csfoy.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Sept-Îles",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepsi.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Sherbrooke",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepsherbrooke.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Sorel-Tracy",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepst.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Thetford",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "ceclotbiniere.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Trois-Rivières",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegeptr.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep de Victoriaville",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepvicto.ca"
+    ]
+  },
+  {
+    "name": "Cégep du Vieux Montréal",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cvm.qc.ca"
+    ]
+  },
+  {
+    "name": "Cégep Édouard-Montpetit",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepmontpetit.ca"
+    ]
+  },
+  {
+    "name": "Cégep Limoilou",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegeplimoilou.ca"
+    ]
+  },
+  {
+    "name": "Cégep Marie-Victorin",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepmv.ca"
+    ]
+  },
+  {
+    "name": "Cégep régional de Lanaudière",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegep-lanaudiere.qc.ca"
+    ]
+  },
+  {
+    "name": "Champlain Regional College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "crcmail.net"
+    ]
+  },
+  {
+    "name": "Collège Ahuntsic",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegeahuntsic.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Canada",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegecanada.com"
+    ]
+  },
+  {
+    "name": "Collège d'Alma",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegealma.ca"
+    ]
+  },
+  {
+    "name": "Collège de Bois-de-Boulogne",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "bdeb.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège de Maisonneuve",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cmaisonneuve.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège de Rosemont",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "crosemont.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège de Valleyfield",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepvalleyfield.ca"
+    ]
+  },
+  {
+    "name": "Collège François-Xavier-Garneau",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegepgarneau.ca"
+    ]
+  },
+  {
+    "name": "Collège Gérald-Godin",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cgodin.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Lionel-Groulx",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "clg.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Montmorency",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cmontmorency.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Shawinigan",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cshawi.ca"
+    ]
+  },
+  {
+    "name": "Dawson College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "dawsoncollege.qc.ca"
+    ]
+  },
+  {
+    "name": "Heritage College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cegep-heritage.qc.ca"
+    ]
+  },
+  {
+    "name": "Herzing College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "herzing.ca"
+    ]
+  },
+  {
+    "name": "John Abbott College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "johnabbott.qc.ca"
+    ]
+  },
+  {
+    "name": "Vanier College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "vaniercollege.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège André-Grasset",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "GRASSET.QC.CA"
+    ]
+  },
+  {
+    "name": "Collège Bart",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "bart.ca"
+    ]
+  },
+  {
+    "name": "Collège International Marie de France",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "cimf.ca"
+    ]
+  },
+  {
+    "name": "Collège Jean-de-Brébeuf",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "brebeuf.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Laflèche",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "clafleche.qc.ca"
+    ]
+  },
+  {
+    "name": "Collège Mérici",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "merici.ca"
+    ]
+  },
+  {
+    "name": "Collège O'Sullivan de Québec",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "osullivan.edu"
+    ]
+  },
+  {
+    "name": "Collège Stanislas",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "stanislas.qc.ca"
+    ]
+  },
+  {
+    "name": "Collegial Sainte-Anne",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "sainteanne.ca"
+    ]
+  },
+  {
+    "name": "École de musique Vincent d'Indy",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "emvi.qc.ca"
+    ]
+  },
+  {
+    "name": "National Circus School",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "enc.qc.ca"
+    ]
+  },
+  {
+    "name": "LaSalle College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "lcieducation.com"
+    ]
+  },
+  {
+    "name": "Marianopolis College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "marianopolis.edu"
+    ]
+  },
+  {
+    "name": "O'Sullivan College of Montreal",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "osullivan.edu"
+    ]
+  },
+  {
+    "name": "Séminaire de Sherbrooke",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "seminaire-sherbrooke.qc.ca"
+    ]
+  },
+  {
+    "name": "TAV College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "tav.ca"
+    ]
+  },
+  {
+    "name": "Trebas Institute",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "trebas.com"
+    ]
+  },
+  {
+    "name": "Bethany College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "thrivesk.com"
+    ]
+  },
+  {
+    "name": "Briercrest College and Seminary",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "briercrest.ca"
+    ]
+  },
+  {
+    "name": "Carlton Trail College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "carltontrailcollege.com"
+    ]
+  },
+  {
+    "name": "Horizon College and Seminary",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "horizon.edu"
+    ]
+  },
+  {
+    "name": "College Mathieu",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "collegemathieu.sk.ca"
+    ]
+  },
+  {
+    "name": "Cumberland College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "suncrestcollege.ca"
+    ]
+  },
+  {
+    "name": "Eston College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "estoncollege.ca"
+    ]
+  },
+  {
+    "name": "Great Plains College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "greatplainscollege.ca"
+    ]
+  },
+  {
+    "name": "Lakeland College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "lakelandcollege.ca"
+    ]
+  },
+  {
+    "name": "Nipawin Bible College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "nipawin.org"
+    ]
+  },
+  {
+    "name": "North West College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "northwestcollege.ca"
+    ]
+  },
+  {
+    "name": "Northlands College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "northlandscollege.sk.ca"
+    ]
+  },
+  {
+    "name": "Parkland College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "suncrestcollege.ca"
+    ]
+  },
+  {
+    "name": "St Peter's College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "stpeters.sk.ca"
+    ]
+  },
+  {
+    "name": "Saskatchewan Indian Institute of Technologies",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "siit.ca"
+    ]
+  },
+  {
+    "name": "Saskatchewan Polytechnic",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "saskpolytech.ca"
+    ]
+  },
+  {
+    "name": "Southeast College",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "southeastcollege.org"
+    ]
+  },
+  {
+    "name": "Western Academy Broadcasting College",
+    "classification": "College"
+  },
+  {
+    "name": "Yukon School of Visual Arts",
+    "university": false,
+    "college": true,
+    "email_domains": [
+      "yukonsova.ca"
+    ]
+  }
+]
