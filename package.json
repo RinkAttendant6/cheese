@@ -12,6 +12,7 @@
     "astro": "^5.1.9"
   },
   "devDependencies": {
+    "@types/node": "^22.10.10",
     "prettier": "3.4.2"
   }
 }
